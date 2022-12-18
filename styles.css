@@ -1,0 +1,37 @@
+#container {
+    width: 60%;
+    height: 600px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgba(229, 255, 0, 0.452);
+}
+
+#letterArea{
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    padding-top: 15%;
+}
+
+#instructions {
+    width: 60%;
+    margin: auto;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.letterBlock{
+    background-color: rgba(10, 255, 200, 0.8);
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    font-size: 40px;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    color: rgba(12, 66, 216, 0.911);
+    box-shadow: 5px 5px 10px black;
+    border-radius: 20%;
+    text-shadow: 3px -3px black;
+}
